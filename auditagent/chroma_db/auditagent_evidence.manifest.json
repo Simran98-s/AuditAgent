@@ -1,0 +1,1 @@
+{"collection": "auditagent_evidence", "count": 4, "embedding_dim": 384, "embedding_model": "BAAI/bge-small-en-v1.5", "revision": "978e8a9cb90f485e386687fa8c614cf999606b4b5b38c897789f684377997f83", "schema_version": 1}
